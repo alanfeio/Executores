@@ -2,7 +2,7 @@
 NESSA LISTA NAO IREI COLOCAR A MAIORIA DOS EXECUTORES QUE USAM INJETORES DE OUTROS EXECUTORES
 
 # Android e IPhone 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="100" />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="100" />  <img src="https://cdn-icons-png.flaticon.com/512/0/747.png" width="100" />
 
 -----------------------------------------------------------
 
