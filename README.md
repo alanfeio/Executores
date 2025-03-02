@@ -265,6 +265,9 @@ https://discord.gg/qmhSnH33Pu
 TuersSS
 https://discord.gg/P97cXDT4dH
 
+Matcha External
+https://discord.gg/Cm9kSZPPsC
+
 -----------------------------------------------------------
 
 Ultima vez atualizado = 02/03/2025
