@@ -17,10 +17,10 @@ Arceus X NEO - Android, Iphone, VNG
 https://spdmteam.com/index <img src="https://arceusx.com/wp-content/uploads/2022/08/Logo-svg-e1661869205382.png" width="30" />
 
 Codex - Android, Iphone, VNG
-https://codex.lol
+https://codex.lol <img src="https://www.f6s.com/content-resource/profiles/3798380_th1.jpg" width="30" />
 
 VegaX - Android
-https://github.com/1f0yt/community/releases/tag/Vegax
+https://github.com/1f0yt/community/releases/tag/Vegax <img src="https://www.vegax.gg/assets/img/V_logo_noir.png" width="30" />
 
 Cryptic - Android, Iphone, VNG, PC
 https://getcryptic.net/
