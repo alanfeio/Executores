@@ -175,3 +175,4 @@ https://discord.gg/SVhmjH6E
 -----------------------------------------------------------
 Ultima vez atualizado = 02/03/2025
 Botei umas api ai
+meu discord: alanfeio_33018
