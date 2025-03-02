@@ -89,6 +89,7 @@ https://wearedevs.net/d/JJSploit
 Ember (NÃO USE, EMBER SKIDARAM O METODO DE INJEÇAO DO VELOCITY)
 https://www.getember.net/
 
+
 Dynamic (Recomendado)
 https://getdynamic.lol/
 
