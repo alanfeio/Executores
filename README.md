@@ -1,7 +1,7 @@
-Executores
+# Executores
 NESSA LISTA NAO IREI COLOCAR A MAIORIA DOS EXECUTORES QUE USAM INJETORES DE OUTROS EXECUTORES
 
-Android e IPhone
+# Android e IPhone
 -----------------------------------------------------------
 
 
@@ -45,7 +45,7 @@ SubZero
 https://getsubz.xyz/
 
 -----------------------------------------------------------
-Windows
+# Windows
 
 Velocity (Recomendado)
 discord.gg/getvelocity
@@ -150,7 +150,7 @@ https://discord.gg/58T6T7KG
 
 
 -----------------------------------------------------------
-Executores Para MacOS
+# Executores Para MacOS
 
 
 Macsploit (Recomendado Pago, Contem assinatura Unica)
@@ -159,7 +159,7 @@ https://discord.gg/macsploit
 
 
 -----------------------------------------------------------
-APIs
+# APIs
 SpashAPI (Contem varias apis, o owner e um skider então se tu for rateado o problema não é meu)
 https://dsc.gg/getspashapi
 
