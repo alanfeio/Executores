@@ -164,6 +164,8 @@ https://discord.gg/macsploit
 
 -----------------------------------------------------------
 # APIs
+<img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="20" />
+
 SpashAPI (Contem varias apis, o owner e um skider então se tu for rateado o problema não é meu)
 https://dsc.gg/getspashapi
 
