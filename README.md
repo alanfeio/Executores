@@ -11,7 +11,7 @@ Delta - Android, Iphone
 https://deltaexploits.gg <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/654501e364519ebed7df39be/0x0.png" width="30" />
 
 CubixMAX - Android
-https://www.cubixteam.xyz/download
+https://www.cubixteam.xyz/download <img src="https://cubixexecutor.com/wp-content/uploads/2024/05/favicon.png" width="30" />
 
 Arceus X NEO - Android, Iphone, VNG
 https://spdmteam.com/index
