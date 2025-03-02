@@ -23,10 +23,10 @@ VegaX - Android
 https://github.com/1f0yt/community/releases/tag/Vegax <img src="https://www.vegax.gg/assets/img/V_logo_noir.png" width="30" />
 
 Cryptic - Android, Iphone, VNG, PC
-https://getcryptic.net/
+https://getcryptic.net/ <img src="https://crypticexecutor.com/wp-content/uploads/2024/07/cropped-cryptic_favicon.png" width="30" />
 
 Illusion (Antigo Hydrogen) - Android
-https://projectillusion.dev/
+https://projectillusion.dev/ <img src="https://cdn.discordapp.com/icons/1339446978555154444/a_9d03e4e4ff3022d5eef2c5c99ea04f0b.webp?size=96" width="30" />
 
 Trigon - Android (caso o link expire me avise)
 https://discord.gg/yVvfanDd
