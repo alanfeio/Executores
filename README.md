@@ -53,6 +53,9 @@ https://getsubz.xyz/
 Velocity (Recomendado)
 https://discord.gg/getvelocity
 
+Salad (sla)
+https://discord.gg/8C3xhGsgE4
+
 Essence (Ainda não lançou)
 https://discord.gg/eznV4ZZerU
 
