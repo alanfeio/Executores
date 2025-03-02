@@ -1,4 +1,6 @@
 Executores
+NESSA LISTA NAO IREI COLOCAR A MAIORIA DOS EXECUTORES QUE USAM INJETORES DE OUTROS EXECUTORES
+
 Android e IPhone
 -----------------------------------------------------------
 
@@ -85,6 +87,13 @@ https://getdynamic.lol/
 Gegamo (Ainda vai lançar)
 https://gegamo.xyz/
 
+Arctic (Recomendado)
+https://discord.gg/9tm7kHB3
+
+Uranium (NÃO TESTADO)
+https://discord.gg/epsYA4pHJq
+
+
 Wave (Recomendado Pago)
 https://getwave.gg
 
@@ -92,7 +101,7 @@ Seliware (Recomendado Pago)
 https://discord.gg/VTSjrj5V
 
 Quantum (Recomendado)
-https://discord.gg/WBSaTHp3
+ discord.gg/getquantumx
 
 Atlantis (se tiver vírus a culpa não é minha rs)
 https://discord.gg/getatlantis
@@ -132,15 +141,34 @@ https://getnihon.xyz/
 
 Zenith (sla parece ser bom)
 https://zenith.win/
+
+Fusion Softworks (WIP)
+https://discord.gg/getfusion
+
+Volt (Recomendado, Feito pelo forlorn rs)
+https://discord.gg/58T6T7KG
+
+
 -----------------------------------------------------------
 Executores Para MacOS
 Macsploit (Recomendado Pago, Contem assinatura Unica)
 discord.gg/macsploit
 
 
+-----------------------------------------------------------
+APIs
+SpashAPI (Contem varias apis, o owner e um skider então se tu for rateado o problema não é meu)
+https://dsc.gg/getspashapi
 
+RevolutionAPI ( Pago Recomendado Level 7 100% Sunc)
+https://discord.gg/mH2KE858
 
+AegisAPI (Recomendado)
+https://discord.gg/Xwnsu2XEQx
 
+SaturnAPI (nem sei c funciona mais sinceramente)
+https://discord.gg/SVhmjH6E
 
-01/03/2025
-depois colocou api e tals
+-----------------------------------------------------------
+Ultima vez atualizado = 02/03/2025
+Botei umas api ai
