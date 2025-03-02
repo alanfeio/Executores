@@ -119,7 +119,7 @@ https://discord.gg/awp
 Moon (sla)
 https://moonexec.netlify.app/
 
-Zorara (Recomendado)
+Zorara (Recomendado, talvez seja um trojan)
 https://discord.gg/realzorara
 
 Synapse X Remake (Recomendado)
