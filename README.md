@@ -50,8 +50,9 @@ discord.gg/getvelocity
 
 Essence (Ainda não lançou)
 discord.gg/getessence
-
-<div align="center"> <img src="https://discord.com/api/guilds/1210371208252760074/widget.png" alt="Essence Discord" /> </div>
+<div align="center">
+  <img src="https://cdn.discordapp.com/icons/SERVER_ID/ICON_ID.png" alt="Ícone do Servidor" width="100" />
+</div>
 
 
 Solara (Não recomendado)
