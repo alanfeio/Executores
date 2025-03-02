@@ -51,6 +51,8 @@ discord.gg/getvelocity
 Essence (Ainda não lançou)
 discord.gg/getessence
 
+Nezur (Não recomendado)
+https://nezur.io/
 
 
 Solara (Não recomendado)
@@ -131,6 +133,14 @@ https://getnihon.xyz/
 Zenith (sla parece ser bom)
 https://zenith.win/
 -----------------------------------------------------------
+Executores Para MacOS
+Macsploit (Recomendado Pago, Contem assinatura Unica)
+discord.gg/macsploit
+
+
+
+
+
 
 01/03/2025
 depois colocou api e tals
