@@ -154,7 +154,7 @@ Executores Para MacOS
 
 
 Macsploit (Recomendado Pago, Contem assinatura Unica)
-httpsd://discord.gg/macsploit
+https://discord.gg/macsploit
 
 
 -----------------------------------------------------------
