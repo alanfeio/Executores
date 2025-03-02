@@ -8,7 +8,7 @@ NESSA LISTA NAO IREI COLOCAR A MAIORIA DOS EXECUTORES QUE USAM INJETORES DE OUTR
 
 
 Delta - Android, Iphone
-https://deltaexploits.gg <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/654501e364519ebed7df39be/0x0.png" width="30" />
+https://deltaexploits.gg <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/654501e364519ebed7df39be/0x0.png" width="30" style="margin-top: 20px;" />
 
 CubixMAX - Android
 https://www.cubixteam.xyz/download <img src="https://cubixexecutor.com/wp-content/uploads/2024/05/favicon.png" width="30" />
