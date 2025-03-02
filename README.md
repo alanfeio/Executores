@@ -51,10 +51,10 @@ https://getsubz.xyz/
 <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="80" />
 
 Velocity (Recomendado)
-discord.gg/getvelocity
+https://discord.gg/getvelocity
 
 Essence (Ainda não lançou)
-discord.gg/getessence
+https://discord.gg/getessence
 
 Nezur (Não recomendado)
 https://nezur.io/
