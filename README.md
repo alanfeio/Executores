@@ -59,7 +59,6 @@ discord.gg/getessence
 Nezur (Não recomendado)
 https://nezur.io/
 
-
 Solara (Não recomendado)
 discord.gg/get-solara
 
@@ -95,7 +94,6 @@ https://discord.gg/9tm7kHB3
 
 Uranium (NÃO TESTADO)
 https://discord.gg/epsYA4pHJq
-
 
 Wave (Recomendado Pago)
 https://getwave.gg
@@ -137,7 +135,7 @@ ByteBreaker (sla)
 https://www.kingexploits.com
 
 Plutora (n testei)
-https://discord.com/invite/rdCs7hxn9B
+https://plutora.xyz/
 
 Nihon (descontinuado)
 https://getnihon.xyz/
