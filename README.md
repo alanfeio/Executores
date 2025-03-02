@@ -102,7 +102,7 @@ Seliware (Recomendado Pago)
 https://discord.gg/VTSjrj5V
 
 Quantum (Recomendado)
- discord.gg/getquantumx
+https://discord.gg/getquantumx
 
 Atlantis (se tiver vírus a culpa não é minha rs)
 https://discord.gg/getatlantis
