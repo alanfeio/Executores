@@ -173,6 +173,92 @@ SaturnAPI (nem sei c funciona mais sinceramente)
 https://discord.gg/SVhmjH6E
 
 -----------------------------------------------------------
+# Executores ServerSides
+
+ServerSide.Fun (recomendandado)
+https://discord.gg/serverside
+
+Aureus (não tao bom n tem muitos jogos)
+https://aureus.wtf/
+
+Luna (Recomendado)
+https://discord.gg/serversides
+
+Reboy ExSer (ruim mais gratuito)
+https://dash.exser.pp.ua/
+
+Tidal (Recomendado)
+https://discord.gg/serversiding
+
+Remium (nao testei mais falam q é o melhor)
+https://remium.wtf/
+
+Torrent 
+https://serversiding.com/#home
+
+Zephal 
+https://discord.me/zephal
+
+Xyclone SS 
+https://discord.com/invite/Hy37Q8N6td
+
+Menace
+https://www.menace.wtf/
+
+Exoliner 
+https://exoliner.wtf/
+
+Nova
+https://discord.gg/nova-1-serverside-worldwide-1297289084036841542
+
+Proton
+https://discord.gg/ajmDaAVw4z
+
+Titanic Admin
+https://titanic.serversiding.com/
+
+Nexus
+https://robloxcheats.org/
+
+Moon SS
+https://discord.gg/B982HqMcKt
+
+Orion SS
+https://discord.gg/E4uXsgeJ3H
+
+UzI SS
+https://discord.gg/ywsr8daWAb
+
+Lumina
+https://discord.gg/jweQ7BbNFU
+
+PlanetSide
+https://discord.gg/CWhcCAvueq
+
+Eclipse
+https://discord.gg/9gTVNbfdpk
+
+Viorn
+https://discord.gg/mXG8yDjSJv
+
+Phantom
+https://discord.gg/4TYA9BCJVJ
+
+Pulsar Admin
+https://pulsaradmin.neocities.org/
+
+Micro
+https://discord.gg/hf9dZ4mkUC
+
+Ralite
+https://discord.gg/qmhSnH33Pu
+
+TuersSS
+https://discord.gg/P97cXDT4dH
+
+-----------------------------------------------------------
+
 Ultima vez atualizado = 02/03/2025
-Botei umas api ai
+Botei umas api ai e ums serversides
 meu discord: alanfeio_33018
+se algum link expira me avisa
