@@ -266,3 +266,5 @@ Ultima vez atualizado = 02/03/2025
 Botei umas api ai e ums serversides
 meu discord: alanfeio_33018
 se algum link expira me avisa
+![GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
