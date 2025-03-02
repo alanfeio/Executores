@@ -154,6 +154,7 @@ https://discord.gg/58T6T7KG
 
 -----------------------------------------------------------
 # Executores Para MacOS
+<img src="https://logowik.com/content/uploads/images/mac-os.jpg" width="80" />
 
 
 Macsploit (Recomendado Pago, Contem assinatura Unica)
