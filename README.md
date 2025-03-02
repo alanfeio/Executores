@@ -269,6 +269,15 @@ Matcha External
 https://discord.gg/Cm9kSZPPsC
 
 -----------------------------------------------------------
+# Obfuscadores LuaU
+
+MoonSec
+https://discord.gg/rnQNy4MxfV
+
+Source Lock
+https://discord.gg/bHt9htEF9T
+
+-----------------------------------------------------------
 
 Ultima vez atualizado = 02/03/2025
 Botei umas api ai e ums serversides
