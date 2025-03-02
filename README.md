@@ -2,7 +2,7 @@
 NESSA LISTA NAO IREI COLOCAR A MAIORIA DOS EXECUTORES QUE USAM INJETORES DE OUTROS EXECUTORES
 
 # Android e IPhone 
-<img src="https://thumbs.dreamstime.com/b/e-android-contra-ios-de-apple-cena-visual-do-conceito-que-representa-s-mbolos-logotipo-como-os-car-teres-d-r-ideal-para-as-142484457.jpg" width="100" />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="100" />
 
 -----------------------------------------------------------
 
