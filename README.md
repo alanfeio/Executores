@@ -48,7 +48,7 @@ https://getsubz.xyz/
 
 -----------------------------------------------------------
 # Windows
-<img src="https://www.citypng.com/public/uploads/preview/hd-windows-11-logo-icon-transparent-background-701751694967888zqtluh5aaw.png" width="80" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="80" />
 
 Velocity (Recomendado)
 discord.gg/getvelocity
