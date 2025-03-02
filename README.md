@@ -48,7 +48,7 @@ https://getsubz.xyz/
 
 -----------------------------------------------------------
 # Windows
-<img src="https://w7.pngwing.com/pngs/531/76/png-transparent-logo-windows-8-microsoft-store-windows-logos-blue-angle-text-thumbnail.png" width="80" />
+<img src="https://www.citypng.com/public/uploads/preview/hd-windows-11-logo-icon-transparent-background-701751694967888zqtluh5aaw.png" width="80" />
 
 Velocity (Recomendado)
 discord.gg/getvelocity
