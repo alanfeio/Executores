@@ -184,6 +184,7 @@ https://discord.gg/RP8zeUrk
 
 -----------------------------------------------------------
 # Executores ServerSides
+<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/6276a1069ecdcfaab684c15c/0x0.png" width="100" />
 
 ServerSide.Fun (recomendandado)
 https://discord.gg/serverside
