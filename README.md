@@ -14,7 +14,7 @@ CubixMAX - Android
 https://www.cubixteam.xyz/download <img src="https://cubixexecutor.com/wp-content/uploads/2024/05/favicon.png" width="30" />
 
 Arceus X NEO - Android, Iphone, VNG
-https://spdmteam.com/index
+https://spdmteam.com/index <img src="https://arceusx.com/wp-content/uploads/2022/08/Logo-svg-e1661869205382.png" width="30" />
 
 Codex - Android, Iphone, VNG
 https://codex.lol
