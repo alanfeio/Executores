@@ -54,7 +54,7 @@ Velocity (Recomendado)
 https://discord.gg/getvelocity
 
 Essence (Ainda não lançou)
-https://discord.gg/getessence
+https://discord.gg/eznV4ZZerU
 
 Nezur (Não recomendado)
 https://nezur.io/
