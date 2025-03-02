@@ -267,4 +267,4 @@ Botei umas api ai e ums serversides
 meu discord: alanfeio_33018
 se algum link expira me avisa
 
-![GIF](https://giphy.com/gifs/9NdHpTTelmjYRusK4G)
+![GIF](https://media.giphy.com/media/9NdHpTTelmjYRusK4G/giphy.gif)
