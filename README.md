@@ -1,8 +1,9 @@
 # Executores
 Android e IPhone
+
 -----------------------------------------------------------
 Delta Android Iphone
-https://deltaexploits.g
+https://deltaexploits.gg
 CubixMAX Android
 https://www.cubixteam.xyz/download
 Arceus X NEO - Android Iphone VNG
