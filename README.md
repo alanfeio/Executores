@@ -10,7 +10,8 @@
 
 &#x20;&#x20;
 
-###  **Executores Disponíveis**
+### 🔹 **Executores Disponíveis**
+
 
 Aqui está uma lista detalhada dos executores compatíveis com dispositivos móveis:
 
