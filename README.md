@@ -1,299 +1,215 @@
-# Executores
-NESSA LISTA NAO IREI COLOCAR A MAIORIA DOS EXECUTORES QUE USAM INJETORES DE OUTROS EXECUTORES
+# 🚀 Lista de Executores
 
-# Android e IPhone 
+> **Atenção**: Esta lista contém apenas executores legítimos e alguns podem ser **VIRUS** caso sejam avisem no meu discord que esta abaixo, sem depender de injetores de terceiros. Se algum link estiver fora do ar, me avise para manter tudo atualizado!
+
+---
+
+## 📱 Android & iPhone
+
 <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="100" />  <img src="https://cdn-icons-png.flaticon.com/512/0/747.png" width="100" />
 
------------------------------------------------------------
+&#x20;&#x20;
 
+### 🔹 **Executores Disponíveis**
 
-Delta - Android, Iphone
-https://deltaexploits.gg <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/654501e364519ebed7df39be/0x0.png" width="30" style="margin-top: 20px;" />
+Aqui está uma lista detalhada dos executores compatíveis com dispositivos móveis:
 
-CubixMAX - Android
-https://www.cubixteam.xyz/download <img src="https://cubixexecutor.com/wp-content/uploads/2024/05/favicon.png" width="30" />
+| Nome                       | Plataformas                                 | Link                                                            |
+| -------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
+| **Delta**                  | Android, iPhone                             | [Site Oficial](https://deltaexploits.gg)                        |
+| **CubixMAX**               | Android                                     | [Download](https://www.cubixteam.xyz/download)                  |
+| **Arceus X NEO**           | Android, iPhone, VNG                        | [Site Oficial](https://spdmteam.com/index)                      |
+| **Codex**                  | Android, iPhone, VNG                        | [Site Oficial](https://codex.lol)                               |
+| **VegaX**                  | Android                                     | [GitHub](https://github.com/1f0yt/community/releases/tag/Vegax) |
+| **Cryptic**                | Android, iPhone, VNG, PC                    | [Site Oficial](https://getcryptic.net/)                         |
+| **Illusion (Ex-Hydrogen)** | Android                                     | [Site Oficial](https://projectillusion.dev/)                    |
+| **Trigon**                 | Android                                     | [Discord](https://discord.gg/9SE72AARkS)                        |
+| **Hybrid (Novo)**          | Android                                     | [Discord](https://discord.gg/YN5erFF9)                          |
+| **Krnl (Windows WIP)**     | Android                                     | [Site Oficial](https://krnl.cat/)                               |
+| **AppleWare**              | iPhone                                      | [Site Oficial](https://appleware.dev/)                          |
+| **Evon**                   | Android, Windows *(Windows pode ter vírus)* | [Site Oficial](https://evon.cc/)                                |
+| **SubZero**                | Android                                     | [Site Oficial](https://getsubz.xyz/)                            |
 
-Arceus X NEO - Android, Iphone, VNG
-https://spdmteam.com/index <img src="https://arceusx.com/wp-content/uploads/2022/08/Logo-svg-e1661869205382.png" width="30" />
+Cada um desses executores tem suas particularidades, então escolha aquele que voce goste mais do sistema de key
 
-Codex - Android, Iphone, VNG
-https://codex.lol <img src="https://apkhihe.org/wp-content/uploads/2024/10/Codex-Executor-icon.jpg" width="30" />
+---
 
-VegaX - Android
-https://github.com/1f0yt/community/releases/tag/Vegax <img src="https://www.vegax.gg/assets/img/V_logo_noir.png" width="30" />
+## 🖥️ Windows
+<img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="100" />
+### 🔹 **Executores Disponíveis**
 
-Cryptic - Android, Iphone, VNG, PC
-https://getcryptic.net/ <img src="https://crypticexecutor.com/wp-content/uploads/2024/07/cropped-cryptic_favicon.png" width="30" />
+Se você usa Windows, aqui estão os executores mais recomendados:
 
-Illusion (Antigo Hydrogen) - Android
-https://projectillusion.dev/ <img src="https://cdn.discordapp.com/icons/1339446978555154444/a_9d03e4e4ff3022d5eef2c5c99ea04f0b.webp?size=96" width="30" />
+- **Velocity** *(Recomendado, ótimo desempenho!)* - [Discord](https://discord.gg/getvelocity)
+- **Salad** *(Bom!)* - [Discord](https://discord.gg/8C3xhGsgE4)
+- **Fusion SoftWorks** *(WIP)* - [Discord](https://discord.gg/8C3xhGsgE4)
+- **Essence** *(WIP)* - [Discord](https://discord.gg/eznV4ZZerU)
+- **Nezur** *(Não Recomendado)* -[Site Oficial](https://nezur.io)
+- **Solara** *(Bom Para uso Basicos)* - [Discord](https://discord.gg/get-solara)
+- **Cloudy** *(Altamente recomendado!)* - [Discord](https://discord.gg/getcloudy)
+- **Cryptic** *(Seguro e confiável!)* - [Site Oficial](https://getcryptic.net)
+- **Luna** *(Boa escolha para quem busca estabilidade.)* - [Discord](https://discord.com/invite/getluna)
+- **Surge** *(Não Testado)* - [Website](https://getsurge.mysellauth.com/)
+- **JJsploit** *(TROJAN)* - [Website](https://wearedevs.net/d/JJSploit)
+- **Ember** *(skiders, não recomendado)* - [Website](https://www.getember.net/)
+- **Gegamo** *(WIP)* - [Website](https://gegamo.xyz/)
+- **Uranium** *(Não Testado) - [Discord](https://discord.gg/epsYA4pHJq)
+- **Wave** *(Disparado Um dos melhores Executores)* - [Website](https://getwave.gg)
+- **Seliware** *(Pago, mas muito eficiente!)* - [Discord](https://discord.gg/VB2CyNsDc5)
+- **Ronix** *(Integração com Atlantis, ótimo desempenho!)* - [Discord](https://discord.gg/ronix)
+- **Xeno** *(Executa rapidamente sem complicações.)* - [Discord](https://discord.gg/getxeno)
+- **Dynamic** *(Compatível com múltiplos scripts!)* - [Site Oficial](https://getdynamic.lol/)
+- **Arctic** *(Suporte ativo e ótima compatibilidade.)* - [Discord](https://discord.gg/9tm7kHB3)
+- **Quantum** *(Funciona bem em qualquer sistema!)* - [Discord](https://discord.gg/getquantumx)
+- **Argon** *(Mais uma ótima opção para Windows!)* - [Discord](https://discord.gg/getargon)
+- **Atlantis** *(Use com cautela se tiver virus a culpa não sera minha)* - [Discord](https://discord.gg/getatlantis)
+- **Synapse Z** *(Otimo Executor Pago!)* - [Discord](https://discord.gg/ZT4jAN4TrG)
+- **AWP** *(O melhor executor rs, Pago)* - [Discord](https://discord.gg/awpgg)
+- **Moon** *(sla.)* - [Website]( https://moonexec.netlify.app/)
+- **Synapse X Remake** *(Versão confiável do Synapse X!)* - [Discord](https://discord.gg/7mXcv3yT)
+- **Swift** *(Bom desempenho e segurança!)* - [Discord](https://discord.gg/getswift)
+- **Volt** *(Criado pelo forlorn, ótimo executor!)* - [Discord](https://discord.gg/58T6T7KG)
+- **Mint** *(sla.)* - [Discord](https://discord.gg/EfF6XX98HA)
+- **Atlantic** *(Baseado no Xeno)* - [Discord](https://discord.gg/v85vVUZUpp)
+- **ByteBreaker** *(Otimo)* - [WebSite](https://www.kingexploits.com)
+- **Plutora** *(Não Testado)* - [Website](https://plutora.xyz/)
+- **Nihon** *(acho q ta descontinuado)* - [Website](https://getnihon.xyz/)
+- **Zenith** *(Parece bom)* - [Website](https://zenith.win/)
+- **Zorara** *(Se for virus a culpa né minha rs)* - [Discord](https://discord.gg/realzorara)
+- **Seliware** *(Pago, mas muito eficiente!)* - [Discord](https://discord.gg/VTSjrj5V)
 
-Trigon - Android 
-https://discord.gg/9SE72AARkS <img src="https://cdn.discordapp.com/icons/885557332623384627/ff86d7e2abc20f66fbc68eaabd2240ab.webp?size=96" width="30" />
+---
 
-
-Hybrid - Android (NOVO)
-https://discord.gg/YN5erFF9 <img src="https://cdn.discordapp.com/icons/1337111429857284148/977748b1525e02ef16c7dd7296752ae4.webp?size=96" width="30" />
-
-Krnl - Android (Windows WIP)
-https://krnl.cat/ <img src="https://cdn.discordapp.com/icons/1038623510500753470/38523f65561b2192d05b45064164e2e0.webp?size=96" width="30" />
-
-AppleWare - Iphone
-https://appleware.dev/ <img src="https://appleware.dev/_app/immutable/assets/logo.9e1ce39f.png" width="30" />
-
-Evon - Android, Windows (o do Windows provavelmente é um vírus)
-https://evon.cc/ <img src="https://cdn.discordapp.com/icons/949451193804001320/08f1c8ff724de464dc3f76db1066b044.webp?size=96" width="30" />
-
-
-SubZero
-https://getsubz.xyz/ <img src="https://cdn.discordapp.com/icons/1226285947646378097/a_eaebecb4684d80f376864e339318173a.webp?size=96" width="30" />
-
------------------------------------------------------------
-# Windows
-<img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="80" />
-
-Velocity (Recomendado)
-https://discord.gg/getvelocity <img src="https://cdn.discordapp.com/icons/943223926509699072/d08e6e1257804501fa056a967248711e.webp?size=56" width="30" />
-
-Salad (sla)
-https://discord.gg/8C3xhGsgE4
-
-Fusion Softworks (ainda não lançou)
-https://discord.gg/getfusion
-
-Essence (Ainda não lançou)
-https://discord.gg/eznV4ZZerU
-
-Nezur (Não recomendado)
-https://nezur.io/
-
-Solara (Não recomendado)
-https://discord.gg/get-solara
-
-Cloudy (Recomendado)
-https://discord.gg/getcloudy
-
-Cryptic (Recomendado, Mesma coisa do Argon)
-https://getcryptic.net
-
-Luna (Não tão bom, mas recomendado)
-https://discord.com/invite/getluna
-
-Ronix (Recomendado, usa o injetor do Atlantis)
-https://discord.gg/ronix
-
-Surge
-https://getsurge.mysellauth.com/
-
-Xeno (Recomendado)
-https://discord.gg/getxeno
-
-JJsploit (Trojan)
-https://wearedevs.net/d/JJSploit
-
-Ember (NÃO USE, EMBER SKIDARAM O METODO DE INJEÇAO DO VELOCITY)
-https://www.getember.net/
-
-
-Dynamic (Recomendado)
-https://getdynamic.lol/
-
-Gegamo (Ainda vai lançar)
-https://gegamo.xyz/
-
-Arctic (Recomendado)
-https://discord.gg/9tm7kHB3
-
-Uranium (NÃO TESTADO)
-https://discord.gg/epsYA4pHJq
-
-Wave (Recomendado Pago)
-https://getwave.gg
-
-Seliware (Recomendado Pago)
-https://discord.gg/VTSjrj5V
-
-Quantum (Recomendado)
-https://discord.gg/getquantumx
-
-Atlantis (se tiver vírus a culpa não é minha rs)
-https://discord.gg/getatlantis
-
-Argon (Recomendado)
-https://discord.gg/getargon
-
-Synapse Z (Recomendado Pago)
-https://discord.gg/55BTm2JS
-
-AWP (melhor executor rs)
-https://discord.gg/awp
-
-Moon (sla)
-https://moonexec.netlify.app/
-
-Zorara (Recomendado, talvez seja um trojan)
-https://discord.gg/realzorara
-
-Synapse X Remake (Recomendado)
-https://discord.gg/7mXcv3yT
-
-Mint (sla tbm)
-https://discord.gg/EQVWvefD
-
-Swift (Recomendado)
-https://discord.gg/getswift
-
-ByteBreaker (sla)
-https://www.kingexploits.com
-
-Plutora (n testei)
-https://plutora.xyz/
-
-Nihon (descontinuado)
-https://getnihon.xyz/
-
-Zenith (sla parece ser bom)
-https://zenith.win/
-
-Fusion Softworks (WIP)
-https://discord.gg/getfusion
-
-Volt (Recomendado, Feito pelo forlorn rs)
-https://discord.gg/58T6T7KG
-
-
------------------------------------------------------------
-# Executores Para MacOS
+## 🍏 macOS
 <img src="https://logowik.com/content/uploads/images/mac-os.jpg" width="80" />
 
 
-Macsploit (Recomendado Pago, Contem assinatura Unica)
+**Macsploit** *(Pago, mas assinatura única, muito confiável!)* - [Discord](https://discord.gg/macsploit)
 
-https://discord.gg/macsploit
+Se você usa Mac, esta é a melhor opção disponível.
 
+---
 
------------------------------------------------------------
-# APIs
 <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="80" />
 
-SpashAPI (Contem varias apis, o owner e um skider então se tu for rateado o problema não é meu)
-https://dsc.gg/getspashapi
+## 🔧 APIs
 
-RevolutionAPI ( Pago Recomendado Level 7 100% Sunc)
-https://discord.gg/mH2KE858
+- **SpashAPI** *(Várias APIs disponíveis o, se tiver virus a culpa não e minha)* - [Discord](https://dsc.gg/getspashapi)
+- **RevolutionAPI** *(Pago, mas altamente eficiente!)* - [Discord](https://discord.gg/mH2KE858)
+- **AegisAPI** *(Recomendado para quem busca estabilidade!)* - [Discord](https://discord.gg/Xwnsu2XEQx)
+- **MoonAPI** *(Recomendado)* -[Discord](https://discord.gg/A4n6XWXbpU)
+- **SaturnAPI** *(Status desconhecido, use por conta própria.)* - [Discord](https://discord.gg/SVhmjH6E)
 
-AegisAPI (Recomendado)
-https://discord.gg/Xwnsu2XEQx
+---
 
-SaturnAPI (nem sei c funciona mais sinceramente)
-https://discord.gg/SVhmjH6E
-
-MoonAPI
-https://discord.gg/RP8zeUrk
-
-
------------------------------------------------------------
 # Executores ServerSides
+
 <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/6276a1069ecdcfaab684c15c/0x0.png" width="100" />
 
-ServerSide.Fun (recomendandado)
-https://discord.gg/serverside
+Esta é uma lista de links para servidores de **Executores ServerSide**. Alguns são recomendados e oferecem uma boa experiência, enquanto outros são gratuitos, mas podem ter menos recursos.
 
-Aureus (não tao bom n tem muitos jogos)
-https://aureus.wtf/
+### Recomendados
 
-Luna (Recomendado)
-https://discord.gg/serversides
+- **[ServerSide.Fun](https://discord.gg/serverside)**  
+  O melhor servidor recomendado.
+  
+- **[Luna](https://discord.gg/serversides)**  
+  Recomendado, com uma boa comunidade e suporte.
 
-Reboy ExSer (ruim mais gratuito)
-https://dash.exser.pp.ua/
+- **[Tidal](https://discord.gg/serversiding)**  
+  Um servidor muito bom, com muitos recursos e suporte.
 
-Tidal (Recomendado)
-https://discord.gg/serversiding
+- **[Remium](https://remium.wtf/)**  
+  Não testado por mim, mas é muito elogiado por outros usuários.
 
-Remium (nao testei mais falam q é o melhor)
-https://remium.wtf/
+### Outros
 
-Torrent 
-https://serversiding.com/#home
+- **[Aureus](https://aureus.wtf/)**  
+  Não tão bom, mas vale a pena dar uma olhada. Não possui muitos jogos.
 
-Zephal 
-https://discord.me/zephal
+- **[Reboy ExSer](https://dash.exser.pp.ua/)**  
+  Gratuito, mas com qualidade inferior aos outros.
 
-Xyclone SS 
-https://discord.com/invite/Hy37Q8N6td
+- **[Torrent](https://serversiding.com/#home)**  
+  Outro servidor disponível para acesso.
 
-Menace
-https://www.menace.wtf/
+- **[Zephal](https://discord.me/zephal)**  
+  Um servidor com bons recursos.
 
-Exoliner 
-https://exoliner.wtf/
+- **[Xyclone SS](https://discord.com/invite/Hy37Q8N6td)**  
+  Servidor disponível para jogadores que buscam recursos extras.
 
-Nova
-https://discord.gg/nova-1-serverside-worldwide-1297289084036841542
+- **[Menace](https://www.menace.wtf/)**  
+  Oferece uma boa experiência, vale a pena conferir.
 
-Proton
-https://discord.gg/ajmDaAVw4z
+- **[Exoliner](https://exoliner.wtf/)**  
+  Um servidor de boa qualidade, mas com menos tráfego.
 
-Titanic Admin
-https://titanic.serversiding.com/
+- **[Nova](https://discord.gg/nova-1-serverside-worldwide-1297289084036841542)**  
+  Outro servidor com uma grande comunidade.
 
-Nexus
-https://robloxcheats.org/
+- **[Proton](https://discord.gg/ajmDaAVw4z)**  
+  Recomendado por alguns usuários, com boas funcionalidades.
 
-Moon SS
-https://discord.gg/B982HqMcKt
+- **[Titanic Admin](https://titanic.serversiding.com/)**  
+  Um servidor para administração, recomendado por alguns.
 
-Orion SS
-https://discord.gg/E4uXsgeJ3H
+- **[Nexus](https://robloxcheats.org/)**  
+  Para quem busca cheats, esse site é uma boa opção.
 
-UzI SS
-https://discord.gg/ywsr8daWAb
+- **[Moon SS](https://discord.gg/B982HqMcKt)**  
+  Servidor interessante para explorar.
 
-Lumina
-https://discord.gg/jweQ7BbNFU
+- **[Orion SS](https://discord.gg/E4uXsgeJ3H)**  
+  Oferece boas opções para quem está começando.
 
-PlanetSide
-https://discord.gg/CWhcCAvueq
+- **[UzI SS](https://discord.gg/ywsr8daWAb)**  
+  Outro servidor de boa qualidade.
 
-Eclipse
-https://discord.gg/9gTVNbfdpk
+- **[Lumina](https://discord.gg/jweQ7BbNFU)**  
+  Interessante para quem quer mais opções.
 
-Viorn
-https://discord.gg/mXG8yDjSJv
+- **[PlanetSide](https://discord.gg/CWhcCAvueq)**  
+  Uma comunidade interessante para explorar.
 
-Phantom
-https://discord.gg/4TYA9BCJVJ
+- **[Eclipse](https://discord.gg/9gTVNbfdpk)**  
+  Servidor interessante com boas funcionalidades.
 
-Pulsar Admin
-https://pulsaradmin.neocities.org/
+- **[Viorn](https://discord.gg/mXG8yDjSJv)**  
+  Um servidor que vale a pena dar uma olhada.
 
-Micro
-https://discord.gg/hf9dZ4mkUC
+- **[Phantom](https://discord.gg/4TYA9BCJVJ)**  
+  Servidor com bons recursos e uma comunidade ativa.
 
-Ralite
-https://discord.gg/qmhSnH33Pu
+- **[Pulsar Admin](https://pulsaradmin.neocities.org/)**  
+  Para quem busca uma opção focada em administração.
 
-TuersSS
-https://discord.gg/P97cXDT4dH
+- **[Micro](https://discord.gg/hf9dZ4mkUC)**  
+  Um servidor de boa qualidade com várias opções.
 
-Matcha External
-https://discord.gg/Cm9kSZPPsC
+- **[Ralite](https://discord.gg/qmhSnH33Pu)**  
+  Outro servidor interessante para explorar.
 
------------------------------------------------------------
-# Obfuscadores LuaU
+- **[TuersSS](https://discord.gg/P97cXDT4dH)**  
+  Oferece uma boa experiência para usuários iniciantes.
 
-MoonSec
-https://discord.gg/rnQNy4MxfV <img src="https://cdn.discordapp.com/icons/1016359885912428636/db3c454d5c8a9775baf0e1f2504767d5.webp?size=96" width="30" />
+- **[Matcha External](https://discord.gg/Cm9kSZPPsC)**  
+  Um servidor para quem busca executores externos.
 
-Source Lock
-https://discord.gg/bHt9htEF9T
+---
+## 🔒 Obfuscadores LuaU
 
------------------------------------------------------------
+- **MoonSec** *(Proteção avançada, la eli)* -  [Discord](https://discord.gg/rnQNy4MxfV)
+- **Source Lock** *(Segurança extra para scripts!)* - [Discord](https://discord.gg/bHt9htEF9T)
+- **LuaObfuscator** *(mediano)* - [Website](https://luaobfuscator.com/)
+- **RBXCoreProtect** *(eta.)* - [GitHub](https://github.com/PlayerPro342/RBXCoreProtect)
+- **ByteLuaObfuscator** *(oloco.)* - [GitHub](https://github.com/kosuke14/ByteLuaObfuscator)
 
-Ultima vez atualizado = 02/03/2025
-Botei umas api ai e ums serversides
-meu discord: alanfeio_33018
-se algum link expira me avisa
+---
 
-![GIF](https://media.giphy.com/media/9NdHpTTelmjYRusK4G/giphy.gif)
+
+📅 **Última Atualização**: 02/03/2025\
+📩 **Meu Discord**: alanfeio\_33018\
+⚠️ *Se algum link expirar, me avise fazendo favor*
+
+---
