@@ -28,14 +28,15 @@ https://getcryptic.net/ <img src="https://crypticexecutor.com/wp-content/uploads
 Illusion (Antigo Hydrogen) - Android
 https://projectillusion.dev/ <img src="https://cdn.discordapp.com/icons/1339446978555154444/a_9d03e4e4ff3022d5eef2c5c99ea04f0b.webp?size=96" width="30" />
 
-Trigon - Android (caso o link expire me avise)
-https://discord.gg/yVvfanDd
+Trigon - Android 
+https://discord.gg/9SE72AARkS <img src="https://cdn.discordapp.com/icons/885557332623384627/ff86d7e2abc20f66fbc68eaabd2240ab.webp?size=96" width="30" />
+
 
 Hybrid - Android (NOVO)
-https://discord.gg/YN5erFF9
+https://discord.gg/YN5erFF9 <img src="https://cdn.discordapp.com/icons/1337111429857284148/977748b1525e02ef16c7dd7296752ae4.webp?size=96" width="30" />
 
 Krnl - Android (Windows WIP)
-https://krnl.cat/
+https://krnl.cat/ <img src="https://cdn.discordapp.com/icons/1038623510500753470/38523f65561b2192d05b45064164e2e0.webp?size=96" width="30" />
 
 AppleWare - Iphone
 https://appleware.dev/
@@ -56,6 +57,9 @@ https://discord.gg/getvelocity
 Salad (sla)
 https://discord.gg/8C3xhGsgE4
 
+Fusion Softworks (ainda não lançou)
+https://discord.gg/getfusion
+
 Essence (Ainda não lançou)
 https://discord.gg/eznV4ZZerU
 
@@ -63,7 +67,7 @@ Nezur (Não recomendado)
 https://nezur.io/
 
 Solara (Não recomendado)
-discord.gg/get-solara
+https://discord.gg/get-solara
 
 Cloudy (Recomendado)
 https://discord.gg/getcloudy
