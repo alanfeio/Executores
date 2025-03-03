@@ -210,4 +210,6 @@ Esta é uma lista de links para servidores de **Executores ServerSide**. Alguns 
 
 📅 **Última Atualização**: 02/03/2025\
 📩 **Meu Discord**: alanfeio\_33018\
-⚠️ *Se algum link expirar, me avise fazendo favor
+⚠️ *Se algum link expirar, me avise fazendo favor*
+
+---
