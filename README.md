@@ -79,7 +79,6 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - 🛑 **Nihon** *(Acho que está descontinuado.)* - [Website](https://getnihon.xyz/)  
 - ⭐ **Zenith** *(Parece bom!)* - [Website](https://zenith.win/)  
 - ⚠️ **Zorara** *(Se for vírus, a culpa não é minha rs!)* - [Discord](https://discord.gg/realzorara)  
-- 💰 **Seliware** *(Pago, mas muito eficiente!)* - [Discord](https://discord.gg/VTSjrj5V)   
 
 ---
 
