@@ -53,7 +53,7 @@ https://getsubz.xyz/ <img src="https://cdn.discordapp.com/icons/1226285947646378
 <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="80" />
 
 Velocity (Recomendado)
-https://discord.gg/getvelocity
+https://discord.gg/getvelocity <img src="https://cdn.discordapp.com/icons/943223926509699072/d08e6e1257804501fa056a967248711e.webp?size=56" width="30" />
 
 Salad (sla)
 https://discord.gg/8C3xhGsgE4
