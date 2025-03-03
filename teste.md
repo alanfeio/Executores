@@ -90,3 +90,127 @@ Se você usa Mac, esta é a melhor opção disponível.
 
 ---
 
+<img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" width="80" />
+
+## 🔧 APIs
+
+- **SpashAPI** *(Várias APIs disponíveis o, se tiver virus a culpa não e minha)* - [Discord](https://dsc.gg/getspashapi)
+- **RevolutionAPI** *(Pago, mas altamente eficiente!)* - [Discord](https://discord.gg/mH2KE858)
+- **AegisAPI** *(Recomendado para quem busca estabilidade!)* - [Discord](https://discord.gg/Xwnsu2XEQx)
+- **MoonAPI** *(Recomendado)* -[Discord](https://discord.gg/A4n6XWXbpU)
+- **SaturnAPI** *(Status desconhecido, use por conta própria.)* - [Discord](https://discord.gg/SVhmjH6E)
+
+---
+
+# Executores ServerSides
+
+<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/6276a1069ecdcfaab684c15c/0x0.png" width="100" />
+
+Esta é uma lista de links para servidores de **Executores ServerSide**. Alguns são recomendados e oferecem uma boa experiência, enquanto outros são gratuitos, mas podem ter menos recursos.
+
+### Recomendados
+
+- **[ServerSide.Fun](https://discord.gg/serverside)**  
+  O melhor servidor recomendado.
+  
+- **[Luna](https://discord.gg/serversides)**  
+  Recomendado, com uma boa comunidade e suporte.
+
+- **[Tidal](https://discord.gg/serversiding)**  
+  Um servidor muito bom, com muitos recursos e suporte.
+
+- **[Remium](https://remium.wtf/)**  
+  Não testado por mim, mas é muito elogiado por outros usuários.
+
+### Outros
+
+- **[Aureus](https://aureus.wtf/)**  
+  Não tão bom, mas vale a pena dar uma olhada. Não possui muitos jogos.
+
+- **[Reboy ExSer](https://dash.exser.pp.ua/)**  
+  Gratuito, mas com qualidade inferior aos outros.
+
+- **[Torrent](https://serversiding.com/#home)**  
+  Outro servidor disponível para acesso.
+
+- **[Zephal](https://discord.me/zephal)**  
+  Um servidor com bons recursos.
+
+- **[Xyclone SS](https://discord.com/invite/Hy37Q8N6td)**  
+  Servidor disponível para jogadores que buscam recursos extras.
+
+- **[Menace](https://www.menace.wtf/)**  
+  Oferece uma boa experiência, vale a pena conferir.
+
+- **[Exoliner](https://exoliner.wtf/)**  
+  Um servidor de boa qualidade, mas com menos tráfego.
+
+- **[Nova](https://discord.gg/nova-1-serverside-worldwide-1297289084036841542)**  
+  Outro servidor com uma grande comunidade.
+
+- **[Proton](https://discord.gg/ajmDaAVw4z)**  
+  Recomendado por alguns usuários, com boas funcionalidades.
+
+- **[Titanic Admin](https://titanic.serversiding.com/)**  
+  Um servidor para administração, recomendado por alguns.
+
+- **[Nexus](https://robloxcheats.org/)**  
+  Para quem busca cheats, esse site é uma boa opção.
+
+- **[Moon SS](https://discord.gg/B982HqMcKt)**  
+  Servidor interessante para explorar.
+
+- **[Orion SS](https://discord.gg/E4uXsgeJ3H)**  
+  Oferece boas opções para quem está começando.
+
+- **[UzI SS](https://discord.gg/ywsr8daWAb)**  
+  Outro servidor de boa qualidade.
+
+- **[Lumina](https://discord.gg/jweQ7BbNFU)**  
+  Interessante para quem quer mais opções.
+
+- **[PlanetSide](https://discord.gg/CWhcCAvueq)**  
+  Uma comunidade interessante para explorar.
+
+- **[Eclipse](https://discord.gg/9gTVNbfdpk)**  
+  Servidor interessante com boas funcionalidades.
+
+- **[Viorn](https://discord.gg/mXG8yDjSJv)**  
+  Um servidor que vale a pena dar uma olhada.
+
+- **[Phantom](https://discord.gg/4TYA9BCJVJ)**  
+  Servidor com bons recursos e uma comunidade ativa.
+
+- **[Pulsar Admin](https://pulsaradmin.neocities.org/)**  
+  Para quem busca uma opção focada em administração.
+
+- **[Micro](https://discord.gg/hf9dZ4mkUC)**  
+  Um servidor de boa qualidade com várias opções.
+
+- **[Ralite](https://discord.gg/qmhSnH33Pu)**  
+  Outro servidor interessante para explorar.
+
+- **[TuersSS](https://discord.gg/P97cXDT4dH)**  
+  Oferece uma boa experiência para usuários iniciantes.
+
+- **[Matcha External](https://discord.gg/Cm9kSZPPsC)**  
+  Um servidor para quem busca executores externos.
+
+---
+## 🔒 Obfuscadores LuaU
+
+- **MoonSec** *(Proteção avançada!)* -  
+- **Source Lock** *(Segurança extra para scripts!)* - [Discord](https://discord.gg/bHt9htEF9T)
+- **Script Protector** *(Protege seu código contra descompilação!)* - [Site](https://scriptprotector.xyz)
+- **ObfuscatorX** *(Ferramenta de ofuscação rápida e eficaz!)* - [Discord](https://discord.gg/obfuscatorx)
+- **LUADox** *(Ofuscação para scripts Lua com alta segurança!)* - [Site](https://luadox.com)
+- **SecureLua** *(Fácil de usar e com boa performance!)* - [Discord](https://discord.gg/securelua)
+- **XploitSec** *(Proteção contra exploits e hacks!)* - [Site](https://xploitsec.com)
+- **SafeLua** *(Proteção robusta para seus scripts LuaU!)* - [Discord](https://discord.gg/safelua)
+
+---
+
+
+📅 **Última Atualização**: 02/03/2025\
+📩 **Meu Discord**: alanfeio\_33018\
+⚠️ *Se algum link expirar, me avise imediatamente!
