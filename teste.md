@@ -35,7 +35,7 @@ Cada um desses executores tem suas particularidades, então escolha aquele que v
 ---
 
 ## 🖥️ Windows
-<img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="60" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="100" />
 ### 🔹 **Executores Disponíveis**
 
 Se você usa Windows, aqui estão os executores mais recomendados:
