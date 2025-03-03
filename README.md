@@ -39,13 +39,13 @@ Krnl - Android (Windows WIP)
 https://krnl.cat/ <img src="https://cdn.discordapp.com/icons/1038623510500753470/38523f65561b2192d05b45064164e2e0.webp?size=96" width="30" />
 
 AppleWare - Iphone
-https://appleware.dev/
+https://appleware.dev/ <img src="https://appleware.dev/_app/immutable/assets/logo.9e1ce39f.png" width="30" />
 
 Evon - Android, Windows (o do Windows provavelmente é um vírus)
-https://evon.cc/
+https://evon.cc/ <img src="https://cdn.discordapp.com/icons/949451193804001320/08f1c8ff724de464dc3f76db1066b044.webp?size=96" width="30" />
 
 SubZero
-https://getsubz.xyz/
+https://getsubz.xyz/ <img src="https://cdn.discordapp.com/icons/1226285947646378097/a_eaebecb4684d80f376864e339318173a.webp?size=96" width="30" />
 
 -----------------------------------------------------------
 # Windows
