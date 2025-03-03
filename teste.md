@@ -82,7 +82,9 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 
 ## 🍏 macOS
 <img src="https://logowik.com/content/uploads/images/mac-os.jpg" width="80" />
-- **Macsploit** *(Pago, mas assinatura única, muito confiável!)* - [Discord](https://discord.gg/macsploit)
+
+
+**Macsploit** *(Pago, mas assinatura única, muito confiável!)* - [Discord](https://discord.gg/macsploit)
 
 Se você usa Mac, esta é a melhor opção disponível.
 
