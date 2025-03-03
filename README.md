@@ -284,7 +284,7 @@ https://discord.gg/Cm9kSZPPsC
 # Obfuscadores LuaU
 
 MoonSec
-https://discord.gg/rnQNy4MxfV
+https://discord.gg/rnQNy4MxfV <img src="https://cdn.discordapp.com/icons/1016359885912428636/db3c454d5c8a9775baf0e1f2504767d5.webp?size=96" width="30" />
 
 Source Lock
 https://discord.gg/bHt9htEF9T
