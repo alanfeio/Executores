@@ -1,3 +1,19 @@
+# 🚀 Lista de Executores
+
+> **Atenção**: Esta lista contém apenas executores legítimos e alguns podem ser **VIRUS** caso sejam avisem no meu discord que esta abaixo, sem depender de injetores de terceiros. Se algum link estiver fora do ar, me avise para manter tudo atualizado!
+
+---
+
+## 📱 Android & iPhone
+
+<img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="100" />  <img src="https://cdn-icons-png.flaticon.com/512/0/747.png" width="100" />
+
+&#x20;&#x20;
+
+### 🔹 **Executores Disponíveis**
+
+Aqui está uma lista detalhada dos executores compatíveis com dispositivos móveis:
+
 | Nome                       | Plataformas                                 | Link                                                            |
 | -------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
 | **Delta**                  | Android, iPhone                             | [Site Oficial](https://deltaexploits.gg)                        |
@@ -53,6 +69,12 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - **Synapse X Remake** *(Versão confiável do Synapse X!)* - [Discord](https://discord.gg/7mXcv3yT)
 - **Swift** *(Bom desempenho e segurança!)* - [Discord](https://discord.gg/getswift)
 - **Volt** *(Criado pelo forlorn, ótimo executor!)* - [Discord](https://discord.gg/58T6T7KG)
+- **Mint** *(sla.)* - [Discord](https://discord.gg/EfF6XX98HA)
+- **Atlantic** *(Baseado no Xeno)* - [Discord](https://discord.gg/v85vVUZUpp)
+- **ByteBreaker** *(Otimo)* - [WebSite](https://www.kingexploits.com)
+- **Plutora** *(Não Testado)* - [Website](https://plutora.xyz/)
+- **Nihon** *(acho q ta descontinuado)* - [Website](https://getnihon.xyz/)
+- **Zenith** *(Parece bom)* - [Website](https://zenith.win/)
 - **Zorara** *(Se for virus a culpa né minha rs)* - [Discord](https://discord.gg/realzorara)
 - **Seliware** *(Pago, mas muito eficiente!)* - [Discord](https://discord.gg/VTSjrj5V)
 
