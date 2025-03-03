@@ -199,18 +199,15 @@ Esta é uma lista de links para servidores de **Executores ServerSide**. Alguns 
 ---
 ## 🔒 Obfuscadores LuaU
 
-- **MoonSec** *(Proteção avançada!)* -  
+- **MoonSec** *(Proteção avançada, la eli)* -  [Discord](https://discord.gg/rnQNy4MxfV)
 - **Source Lock** *(Segurança extra para scripts!)* - [Discord](https://discord.gg/bHt9htEF9T)
-- **Script Protector** *(Protege seu código contra descompilação!)* - [Site](https://scriptprotector.xyz)
-- **ObfuscatorX** *(Ferramenta de ofuscação rápida e eficaz!)* - [Discord](https://discord.gg/obfuscatorx)
-- **LUADox** *(Ofuscação para scripts Lua com alta segurança!)* - [Site](https://luadox.com)
-- **SecureLua** *(Fácil de usar e com boa performance!)* - [Discord](https://discord.gg/securelua)
-- **XploitSec** *(Proteção contra exploits e hacks!)* - [Site](https://xploitsec.com)
-- **SafeLua** *(Proteção robusta para seus scripts LuaU!)* - [Discord](https://discord.gg/safelua)
+- **LuaObfuscator** *(mediano)* - [Website](https://luaobfuscator.com/)
+- **RBXCoreProtect** *(eta.)* - [GitHub](https://github.com/PlayerPro342/RBXCoreProtect)
+- **ByteLuaObfuscator** *(oloco.)* - [GitHub](https://github.com/kosuke14/ByteLuaObfuscator)
 
 ---
 
 
 📅 **Última Atualização**: 02/03/2025\
 📩 **Meu Discord**: alanfeio\_33018\
-⚠️ *Se algum link expirar, me avise imediatamente!
+⚠️ *Se algum link expirar, me avise fazendo favor
