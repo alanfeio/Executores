@@ -44,6 +44,7 @@ https://appleware.dev/ <img src="https://appleware.dev/_app/immutable/assets/log
 Evon - Android, Windows (o do Windows provavelmente é um vírus)
 https://evon.cc/ <img src="https://cdn.discordapp.com/icons/949451193804001320/08f1c8ff724de464dc3f76db1066b044.webp?size=96" width="30" />
 
+
 SubZero
 https://getsubz.xyz/ <img src="https://cdn.discordapp.com/icons/1226285947646378097/a_eaebecb4684d80f376864e339318173a.webp?size=96" width="30" />
 
