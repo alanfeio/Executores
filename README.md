@@ -43,6 +43,8 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 
 ## 🔧 Lista de Executores para Roblox
 
+[![RGB-line.gif](https://i.postimg.cc/d35fwqr6/RGB-line.gif)](https://postimg.cc/gL6sKbML)
+
 - ✅ **Velocity** *(Recomendado, ótimo desempenho!)* - [Discord](https://discord.gg/getvelocity)  
 - 👍 **Salad** *(Bom!)* - [Discord](https://discord.gg/8C3xhGsgE4)  
 - ⚙️ **Fusion SoftWorks** *(WIP)* - [Discord](https://discord.gg/8C3xhGsgE4)  
