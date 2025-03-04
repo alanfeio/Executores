@@ -80,6 +80,9 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - ⭐ **Zenith** *(Parece bom!)* - [Website](https://zenith.win/)  
 - ⚠️ **Zorara** *(Se for vírus, a culpa não é minha rs!)* - [Discord](https://discord.gg/realzorara)  
 
+
+[![RGB-line.gif](https://i.postimg.cc/d35fwqr6/RGB-line.gif)](https://postimg.cc/gL6sKbML)
+
 ---
 
 ## 🍏 macOS
