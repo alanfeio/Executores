@@ -79,7 +79,8 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - 🌟 **ByteBreaker** *(Ótimo!)* - [Website](https://www.kingexploits.com)  
 - ❓ **Plutora** *(Não Testado)* - [Website](https://plutora.xyz/)  
 - 🛑 **Nihon** *(Acho que está descontinuado.)* - [Website](https://getnihon.xyz/)  
-- ⭐ **Zenith** *(Parece bom!)* - [Website](https://zenith.win/)  
+- ⭐ **Zenith** *(Parece bom!)* - [Website](https://zenith.win/)
+- 😁 **ReveliX *(Novo!)* - [Website](https://www.getrevelix.xyz/)
 - ⚠️ **Zorara** *(Se for vírus, a culpa não é minha rs!)* - [Discord](https://discord.gg/realzorara)  
 
 
