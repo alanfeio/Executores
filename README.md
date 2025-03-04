@@ -2,6 +2,8 @@
 
 > **Atenção**: Esta lista contém apenas executores legítimos e alguns podem ser **VIRUS** caso sejam avisem no meu discord que esta abaixo, sem depender de injetores de terceiros. Se algum link estiver fora do ar, me avise para manter tudo atualizado!
 
+<p style="color:red;">LEIA O TEXTO ACIMA</p>
+
 ---
 
 ## 📱 Android & iPhone
