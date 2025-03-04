@@ -15,7 +15,7 @@
 
 Aqui está uma lista detalhada dos executores compatíveis com dispositivos móveis:
 
-| Nome                       | Plataformas                                 | Link                                                            |
+| **Nome**                   | **Plataformas**                             | **Link**                                                         |
 | -------------------------- | ------------------------------------------- | --------------------------------------------------------------- |
 | **Delta**                  | Android, iPhone                             | [Site Oficial](https://deltaexploits.gg)                        |
 | **CubixMAX**               | Android                                     | [Download](https://www.cubixteam.xyz/download)                  |
@@ -30,6 +30,7 @@ Aqui está uma lista detalhada dos executores compatíveis com dispositivos móv
 | **AppleWare**              | iPhone                                      | [Site Oficial](https://appleware.dev/)                          |
 | **Evon**                   | Android, Windows *(Windows pode ter vírus)* | [Site Oficial](https://evon.cc/)                                |
 | **SubZero**                | Android                                     | [Site Oficial](https://getsubz.xyz/)                            |
+| **Revelix**                | Android, Windows                            | [Site Oficial](https://www.getrevelix.xyz/)                     |
 
 Cada um desses executores tem suas particularidades, então escolha aquele que voce goste mais do sistema de key
 
