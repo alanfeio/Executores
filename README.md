@@ -31,6 +31,7 @@ Aqui está uma lista detalhada dos executores compatíveis com dispositivos móv
 | **Evon**                   | Android, Windows *(Windows pode ter vírus)* | [Site Oficial](https://evon.cc/)                                |
 | **SubZero**                | Android                                     | [Site Oficial](https://getsubz.xyz/)                            |
 | **Revelix**                | Android, Windows                            | [Site Oficial](https://www.getrevelix.xyz/)                     |
+| **Ronix**                  | Android, Windows                            | [Discord](https://discord.gg/ronix)                             |
 
 Cada um desses executores tem suas particularidades, então escolha aquele que voce goste mais do sistema de key
 
