@@ -50,7 +50,7 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - 👍 **Salad** *(Bom!)* - [Discord](https://discord.gg/8C3xhGsgE4)  
 - ⚙️ **Fusion SoftWorks** *(WIP)* - [Discord](https://discord.gg/8C3xhGsgE4)  
 - ⚙️ **Essence** *(WIP)* - [Discord](https://discord.gg/eznV4ZZerU)
-- 👌 **SirHurt** *(Otimo!) - [Website](https://sirhurt.net/)
+- 👌 **SirHurt** *(Otimo!)* - [Website](https://sirhurt.net/)
 - ❌ **Nezur** *(Não Recomendado)* - [Site Oficial](https://nezur.io)  
 - 🟡 **Solara** *(Bom para usos básicos)* - [Discord](https://discord.gg/get-solara)  
 - 🔥 **Cloudy** *(Altamente recomendado!)* - [Discord](https://discord.gg/getcloudy)  
