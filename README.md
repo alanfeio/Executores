@@ -120,7 +120,7 @@ Esta é uma lista de links para servidores de **Executores ServerSide**. Alguns 
 
 ### Recomendados
 
-- **[ServerSide.Fun](https://discord.gg/serverside)**  
+- **[ServerSide.Fun](https://serverside.fun/)**  
   O melhor servidor recomendado.
   
 - **[Luna](https://discord.gg/serversides)**  
