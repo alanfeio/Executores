@@ -90,6 +90,54 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 
 [![RGB-line.gif](https://i.postimg.cc/d35fwqr6/RGB-line.gif)](https://postimg.cc/gL6sKbML)
 
+## Executores Descontinuados
+
+# PRODUTOS DESCONTINUADOS ✖️
+
+Os produtos listados abaixo foram descontinuados pacificamente, sem golpes de saída ou prejudicar os usuários.
+
+| ID  | Nome do Executor     | Data de Lançamento | Última Detecção | Pontuação de Confiança | Tipo             | Nível UNC | Revendedores  |
+|-----|----------------------|---------------------|-----------------|------------------------|-----------------|-----------|---------------|
+| 1   | RC7                  | 08/2015             | 12/2018         | 90                     | Windows         | 100%      | ✔️            |
+| 2   | Raindrop             | 08/2016             | Nunca           | 90                     | Windows         | 100%      | ❌            |
+| 3   | Protosmasher         | 08/2016             | Nunca           | 90                     | Windows         | 100%      | ❌            |
+| 4   | Bleu                 | 06/2017             | Nunca           | 90                     | Windows         | 100%      | ✔️            |
+| 5   | Synapse              | 10/2017             | Nunca           | 90                     | Windows         | 100%      | ❌            |
+| 6   | Synapse X            | 10/2018             | 12/2019         | 90                     | Windows         | 100%      | ❌            |
+| 7   | Sentinel             | 12/2019             | Nunca           | 90                     | Windows         | 100%      | ❌            |
+| 8   | Script-Ware          | 02/2021             | Nunca           | 90                     | Windows         | 100%      | ❌            |
+| 9   | Script-Ware M        | 02/2021             | Nunca           | 90                     | Macintosh/iOS   | 100%      | ❌            |
+| 10  | Synapse V3           | 04/2022             | Nunca           | 90                     | Windows         | 100%      | ❌            |
+| 11  | Krampus              | 02/2024             | 05/2024         | 90                     | Windows         | 100%      | ❌            |
+| 12  | Veil                 | 02/2017             | Nunca           | 85                     | Windows         | 100%      | ❌            |
+| 13  | Electron             | 12/2021             | 05/2024         | 85                     | Windows         | 100%      | ✔️            |
+| 14  | Calamari             | 05/2019             | Nunca           | 80                     | Windows         | 100%      | ✔️            |
+| 15  | Calamari             | 10/2019             | Nunca           | 80                     | Macintosh       | 100%      | ✔️            |
+| 16  | Hexus                | 12/2016             | Nunca           | 75                     | Windows         | 100%      | ❌            |
+| 17  | Cerberus             | 01/2017             | Nunca           | 75                     | Windows         | 100%      | ❌            |
+| 18  | Elysian              | 11/2015             | Nunca           | 70                     | Windows         | 100%      | ❌            |
+| 19  | QTX                  | 12/2016             | Nunca           | 70                     | Windows         | 100%      | ❌            |
+| 20  | Stigma               | 02/2017             | Nunca           | 70                     | Windows         | 100%      | ❌            |
+| 21  | Noobhaxx             | 02/2017             | Nunca           | 70                     | Windows         | 100%      | ❌            |
+| 22  | Abstract             | 03/2017             | Nunca           | 65                     | Windows         | 100%      | ❌            |
+| 23  | Vexus                | 04/2017             | Nunca           | 65                     | Windows         | 100%      | ❌            |
+| 24  | Memehax              | 05/2017             | Nunca           | 65                     | Windows         | 100%      | ❌            |
+| 25  | Athena               | 05/2017             | Nunca           | 65                     | Windows         | 100%      | ❌            |
+| 26  | Seraph               | 06/2017             | Nunca           | 65                     | Windows         | 100%      | ❌            |
+| 27  | Nonsense Diamond 💸  | 06/2018             | Nunca           | 65                     | Windows         | 100%      | ❌            |
+| 28  | Oxygen U 💸          | 07/2020             | Nunca           | 65                     | Windows         | 98%       | ❌            |
+| 29  | Sk8r 💸              | 07/2018             | Nunca           | 60                     | Windows         | 100%      | ❌            |
+| 30  | Redboy 💸            | 10/2018             | Nunca           | 60                     | Windows         | 100%      | ❌            |
+| 31  | Slurp 💸             | 12/2018             | Nunca           | 60                     | Windows         | 100%      | ❌            |
+| 32  | Yoink 💸             | 02/2019             | Nunca           | 60                     | Windows         | 100%      | ❌            |
+| 33  | Dove 💸              | 08/2020             | Nunca           | 60                     | Windows         | 100%      | ❌            |
+| 34  | Skisploit 💸         | 04/2018             | Nunca           | 55                     | Windows         | 100%      | ❌            |
+| 35  | Dansploit 💸         | 05/2018             | Nunca           | 55                     | Windows         | 100%      | ❌            |
+| 36  | Coco Z 💸            | 09/2020             | Nunca           | 55                     | Windows         | 100%      | ❌            |
+| 37  | Kiwi X 💸            | 09/2021             | Nunca           | 55                     | Windows         | 100%      | ❌            |
+
+
+
 ---
 
 ## 🍏 macOS
