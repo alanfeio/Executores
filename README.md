@@ -176,7 +176,7 @@ Esta é uma lista de links para servidores de **Executores ServerSide**. Alguns 
 - **[Luna](https://discord.gg/serversides)**  
   Recomendado, com uma boa comunidade e suporte.
 
-- **[Tidal](https://discord.gg/serversiding)**  
+- **[Tidal](https://discord.gg/luna-roblox-s-1-serverside-1245924599955329064)**  
   Um servidor muito bom, com muitos recursos e suporte.
 
 - **[Remium](https://remium.wtf/)**  
