@@ -25,7 +25,7 @@ Aqui está uma lista detalhada dos executores compatíveis com dispositivos móv
 | **Cryptic**                | Android, iPhone, VNG, PC                    | [Site Oficial](https://getcryptic.net/)                         |
 | **Illusion (Ex-Hydrogen)** | Android                                     | [Site Oficial](https://projectillusion.dev/)                    |
 | **Trigon**                 | Android                                     | [Discord](https://discord.gg/9SE72AARkS)                        |
-| **Hybrid (Novo)**          | Android                                     | [Discord](https://discord.gg/YN5erFF9)                          |
+| **Hybrid (Novo)**          | Android                                     | [Discord](https://discord.gg/aRQMc3GyE2)                        |
 | **Krnl (Windows WIP)**     | Android                                     | [Site Oficial](https://krnl.cat/)                               |
 | **AppleWare**              | iPhone                                      | [Site Oficial](https://appleware.dev/)                          |
 | **Evon**                   | Android, Windows *(Windows pode ter vírus)* | [Site Oficial](https://evon.cc/)                                |
