@@ -138,6 +138,7 @@ Os produtos listados abaixo foram descontinuados pacificamente, sem golpes de sa
 | 35  | Dansploit 💸         | 05/2018             | Nunca           | 55                     | Windows         | 100%      | ❌            |
 | 36  | Coco Z 💸            | 09/2020             | Nunca           | 55                     | Windows         | 100%      | ❌            |
 | 37  | Kiwi X 💸            | 09/2021             | Nunca           | 55                     | Windows         | 100%      | ❌            |
+| 38  | Fluxus               | 1 ano..             | Nunca           | 100                    | Android         | 100%      | ❌            |
 
 
 
