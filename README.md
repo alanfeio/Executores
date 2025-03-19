@@ -72,7 +72,7 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - ⚙️ **Xeno** *(Executa rapidamente sem complicações.)* - [Discord](https://discord.gg/getxeno)  
 - 🔄 **Dynamic** *(Compatível com múltiplos scripts!)* - [Site Oficial](https://getdynamic.lol/)  
 - ❄️ **Arctic** *(Suporte ativo e ótima compatibilidade.)* - [Discord](https://discord.gg/9tm7kHB3)  
-- 🖥️ **Saturn** *(Funciona bem em qualquer sistema!)* - [Discord](https://discord.gg/getquantumx)  
+- 🖥️ **Saturn** *(Funciona bem em qualquer sistema!)* - [Discord](https://discord.gg/kXxRu6fAXZ)  
 - 💻 **Argon** *(Mais uma ótima opção para Windows!)* - [Discord](https://discord.gg/getargon)  
 - ⚠️ **Atlantis** *(Use com cautela, se tiver vírus a culpa não será minha!)* - [Discord](https://discord.gg/getatlantis)  
 - 💵 **Synapse Z** *(Ótimo executor pago!)* - [Discord](https://discord.gg/ZT4jAN4TrG)  
