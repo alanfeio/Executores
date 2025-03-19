@@ -71,7 +71,7 @@ Se você usa Windows, aqui estão os executores mais recomendados:
 - ⚡ **Ronix** *(Integração com Atlantis, ótimo desempenho!)* - [Discord](https://discord.gg/ronix)  
 - ⚙️ **Xeno** *(Executa rapidamente sem complicações.)* - [Discord](https://discord.gg/getxeno)  
 - 🔄 **Dynamic** *(Compatível com múltiplos scripts!)* - [Site Oficial](https://getdynamic.lol/)  
-- ❄️ **Arctic** *(Suporte ativo e ótima compatibilidade.)* - [Discord](https://discord.gg/9tm7kHB3)  
+- ❄️ **Arctic** *(Suporte ativo e ótima compatibilidade.)* - [Discord](https://discord.gg/getarctic)  
 - 🖥️ **Saturn** *(Funciona bem em qualquer sistema!)* - [Discord](https://discord.gg/kXxRu6fAXZ)  
 - 💻 **Argon** *(Mais uma ótima opção para Windows!)* - [Discord](https://discord.gg/getargon)  
 - ⚠️ **Atlantis** *(Use com cautela, se tiver vírus a culpa não será minha!)* - [Discord](https://discord.gg/getatlantis)  
